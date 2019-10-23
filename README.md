@@ -1,2 +1,3 @@
 # Simple-Phonebook
-A simple phonebook in Java
+A simple phonebook in Java.
+Stores contact in local file.
